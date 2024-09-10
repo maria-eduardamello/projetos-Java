@@ -1,2 +1,2 @@
-# projetos Java
-Exercicios para aplicar meu conhecimento adquirido estudando a linguagem java
+# Projetos Java
+Exercicios para aplicar meu conhecimento adquirido estudando a linguagem Java
